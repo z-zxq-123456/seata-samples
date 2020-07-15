@@ -80,6 +80,7 @@
         <module>spring-cloud-alibaba-samples</module>
         <module>seata-spring-boot-starter-samples</module>
         <module>seata-xa</module>
+        <module>dubbo-simple-test</module>
     </modules>
 
     <dependencies>
